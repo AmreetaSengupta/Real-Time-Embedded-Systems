@@ -4,6 +4,7 @@ Codes and file descriptions for ECEN 5623, Real-Time Embedded Systems.
 Focuses on real-time synchronization concepts, use of cyclic executives, semaphores, mutexes, multi-threading concepts in Linux and FreeRTOS environments.
 
 EXERCISES:
+
 Exercise 1: Invariant LCM Scheduling
 
 Exercise 2: EDF, LLF & Feasibility
@@ -17,6 +18,7 @@ Exercise 5: Sequencer concepts
 Exercise 6: Final Project Proposal (Moving Object Detection and Following Robot using Raspberry Pi on Linux)
 
 HOMEWORKS:
+
 Homework 1: Soft and Hard Real-Time services
 
 Homework 2: Implementaion of semaphore and study of EDF policy
