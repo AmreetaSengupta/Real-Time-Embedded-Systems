@@ -17,7 +17,7 @@ Exercise 5: Sequencer concepts
 
 Exercise 6: Final Project Proposal (Moving Object Detection and Following Robot using Raspberry Pi on Linux)
 
-**HOMEWORKS**
+**HOMEWORKS:**
 
 Homework 1: Soft and Hard Real-Time services
 
